@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GRwTEcNz7Z3hxBThPl9UADfxZVr/AymYE8ELTLLKA9vccOmjb14nHWE1982MIvkkeory6X+oUhqzyyr/tm9hDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\serha\\OneDrive\\Masaüstü\\BlogForest-master\\BlogForest.DtoLayer\\BlogForest.DtoLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\serha\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\serha\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\serha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
